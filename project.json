@@ -3,7 +3,10 @@
   "description": "Test Automation Project",
   "main": "Main.xaml",
   "dependencies": {
+    "NUnit": "[3.13.2]",
+    "SpecFlow": "[3.8.14]",
     "UiPath.System.Activities": "[21.4.0]",
+    "UiPath.Terminal.Activities": "[2.2.0]",
     "UiPath.Testing.Activities": "[1.3.2]",
     "UiPath.UIAutomation.Activities": "[21.4.3]"
   },
